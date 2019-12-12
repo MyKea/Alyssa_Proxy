@@ -1,0 +1,17 @@
+#middle_container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  height: 100%;
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.right_container {
+  width: 40%;
+}
+
+.left_container {
+  width: 60%;
+}
